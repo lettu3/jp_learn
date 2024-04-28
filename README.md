@@ -3,5 +3,5 @@ an application that shows you words in japanese from an input file, and makes yo
 
 ## Input files format
 ```
-"<JP_WORD> : <DEFINITION>"
+<JP_WORD> : <DEFINITION>
 ```
